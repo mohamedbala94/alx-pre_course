@@ -1,1 +1,1 @@
-my first readme
+  edit from gui 
